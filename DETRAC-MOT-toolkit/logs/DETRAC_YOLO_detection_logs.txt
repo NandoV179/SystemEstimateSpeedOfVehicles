@@ -1,0 +1,710 @@
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+'D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC-Train-Detections\YOLO\MVI_20052_Det_YOLO.txt'. No such file or
+directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('checkResultFormat', 'D:\UA-DETRAC\DETRAC-MOT-toolkit\evaluation\checkResultFormat.m', 58)" style="font-weight:bold">checkResultFormat</a> (<a href="matlab: opentoline('D:\UA-DETRAC\DETRAC-MOT-toolkit\evaluation\checkResultFormat.m',58,0)">line 58</a>)
+    detections = load(fullfile(unzipPath, resName));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('detectionEvaluation', 'D:\UA-DETRAC\DETRAC-MOT-toolkit\evaluation\detectionEvaluation.m', 19)" style="font-weight:bold">detectionEvaluation</a> (<a href="matlab: opentoline('D:\UA-DETRAC\DETRAC-MOT-toolkit\evaluation\detectionEvaluation.m',19,0)">line 19</a>)
+    [errorMsg, realList] = checkResultFormat(detPath, detectorName);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run_experiment', 'D:\UA-DETRAC\DETRAC-MOT-toolkit\run_experiment.m', 8)" style="font-weight:bold">run_experiment</a> (<a href="matlab: opentoline('D:\UA-DETRAC\DETRAC-MOT-toolkit\run_experiment.m',8,0)">line 8</a>)
+    detectionEvaluation();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DETRAC_experiment', 'D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC_experiment.m', 28)" style="font-weight:bold">DETRAC_experiment</a> (<a href="matlab: opentoline('D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC_experiment.m',28,0)">line 28</a>)
+run_experiment();
+} 
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR DETECTION**************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 0.5%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 0.5%.
+initialize_environment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                       imgPath: 'D:\UA-DETRAC\Secuencias de Video\'
+                       detPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC-Train-Detections\'
+                        gtPath: 'D:\UA-DETRAC\Annotations\DETRAC-Train-Annotations-MAT\'
+                       seqPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\sequences.txt'
+                  evaluateType: 'Tracking'
+                  evaluateSeqs: 'DETRAC-Train'
+                   detectorSet: {'YOLO'}
+                       track3d: 0
+              trackingThreStep: 0.1000
+            detectionThreshold: [0 0.1000 0.2000 0.3000 0.4000 0.5000 0.6000 0.7000 0.8000 0.9000 1]
+                     motmetric: 'DETRAC-MOT'
+     printEvaluationForEachSeq: 1
+    printEvaluationForWholeSet: 1
+            printDetectionEval: 1
+            showDetectionCurve: 1
+             showVisualResults: 0
+             saveVisualResults: 0
+             showRemoveResults: 0
+                   displayDots: 1
+                  displayBoxes: 1
+                     displayID: 1
+               displayCropouts: 0
+            displayConnections: 0
+
+initialize_environment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                       imgPath: 'D:\UA-DETRAC\Secuencias de Video\'
+                       detPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC-Train-Detections\'
+                        gtPath: 'D:\UA-DETRAC\Annotations\DETRAC-Train-Annotations-MAT\'
+                       seqPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\sequences.txt'
+                  evaluateType: 'Tracking'
+                  evaluateSeqs: 'DETRAC-Train'
+                   detectorSet: {'YOLO'}
+                       track3d: 0
+              trackingThreStep: 0.1000
+            detectionThreshold: [0 0.1000 0.2000 0.3000 0.4000 0.5000 0.6000 0.7000 0.8000 0.9000 1]
+                     motmetric: 'DETRAC-MOT'
+     printEvaluationForEachSeq: 1
+    printEvaluationForWholeSet: 1
+            printDetectionEval: 1
+            showDetectionCurve: 1
+             showVisualResults: 0
+             saveVisualResults: 0
+             showRemoveResults: 0
+                   displayDots: 1
+                  displayBoxes: 1
+                     displayID: 1
+               displayCropouts: 0
+            displayConnections: 0
+
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 73.14%.
+initialize_environment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                       imgPath: 'D:\UA-DETRAC\Secuencias de Video\'
+                       detPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\DETRAC-Train-Detections\'
+                        gtPath: 'D:\UA-DETRAC\Annotations\DETRAC-Train-Annotations-MAT\'
+                       seqPath: 'D:\UA-DETRAC\DETRAC-MOT-toolkit\sequences.txt'
+                  evaluateType: 'Tracking'
+                  evaluateSeqs: 'DETRAC-Train'
+                   detectorSet: {'YOLO'}
+                       track3d: 0
+              trackingThreStep: 0.1000
+            detectionThreshold: [0 0.1000 0.2000 0.3000 0.4000 0.5000 0.6000 0.7000 0.8000 0.9000 1]
+                     motmetric: 'DETRAC-MOT'
+     printEvaluationForEachSeq: 1
+    printEvaluationForWholeSet: 1
+            printDetectionEval: 1
+            showDetectionCurve: 1
+             showVisualResults: 0
+             saveVisualResults: 0
+             showRemoveResults: 0
+                   displayDots: 1
+                  displayBoxes: 1
+                     displayID: 1
+               displayCropouts: 0
+            displayConnections: 0
+
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 70.23%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 70.59%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR DETECTION**************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 70.59%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector YOLO is 70.59%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR DETECTION**************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+<a href="matlab: opentoline('D:\Matlab\toolbox\matlab\iofun\dlmwrite.m',163,1)">163 </a>        str = str(1:end-1);
+if system_dependent('IsDebugMode')==1, dbquit; end
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************

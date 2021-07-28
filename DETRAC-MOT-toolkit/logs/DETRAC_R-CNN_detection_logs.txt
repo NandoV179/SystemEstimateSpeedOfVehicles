@@ -1,0 +1,399 @@
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+seqName
+{Undefined function or variable 'seqName'.
+} 
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+Checking 1/60
+Checking 2/60
+Checking 3/60
+Checking 4/60
+Checking 5/60
+Checking 6/60
+Checking 7/60
+Checking 8/60
+Checking 9/60
+Checking 10/60
+Checking 11/60
+Checking 12/60
+Checking 13/60
+Checking 14/60
+Checking 15/60
+Checking 16/60
+Checking 17/60
+Checking 18/60
+Checking 19/60
+Checking 20/60
+Checking 21/60
+Checking 22/60
+Checking 23/60
+Checking 24/60
+Checking 25/60
+Checking 26/60
+Checking 27/60
+Checking 28/60
+Checking 29/60
+Checking 30/60
+Checking 31/60
+Checking 32/60
+Checking 33/60
+Checking 34/60
+Checking 35/60
+Checking 36/60
+Checking 37/60
+Checking 38/60
+Checking 39/60
+Checking 40/60
+Checking 41/60
+Checking 42/60
+Checking 43/60
+Checking 44/60
+Checking 45/60
+Checking 46/60
+Checking 47/60
+Checking 48/60
+Checking 49/60
+Checking 50/60
+Checking 51/60
+Checking 52/60
+Checking 53/60
+Checking 54/60
+Checking 55/60
+Checking 56/60
+Checking 57/60
+Checking 58/60
+Checking 59/60
+Checking 60/60
+pre-processing the detection results...
+The AP score of the detector R-CNN is 73.14%.
+DETRAC_experiment
+************************************************************************************
+*              Welcome to the UA-DETRAC MOT Toolkit v1.1!                          *
+* This is the official detection/tracking evaluation kit for the DETection and     *
+* tRACking (DETRAC) Benchmark (http://detrac-db.rit.albany.edu/).                  *
+* More details can be found in the paper "UA-DETRAC: A New Benchmark and Protocol  *
+* for Multi-Object Detection and Tracking".                                        *
+*                 The UA-DETRAC Group @Copyright 2017                              *
+************************************************************************************
+**************************EVALUATION FOR TRACKING***************************
